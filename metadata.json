@@ -1,0 +1,9 @@
+{
+  "name": "Kilimo Smart",
+  "description": "AI-driven offline-first agricultural advisory tool for East African smallholder farmers. Provides crop disease diagnosis, climate-smart planting schedules, and voice-enabled AI advisory.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
